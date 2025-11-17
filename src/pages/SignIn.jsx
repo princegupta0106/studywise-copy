@@ -95,7 +95,7 @@ export default function SignIn() {
             marginBottom: '8px',
             letterSpacing: '-0.5px'
           }}>
-            Padho BC
+            StudWise
           </h1>
           <p style={{
             margin: 0,

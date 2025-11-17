@@ -14,4 +14,4 @@ Disallow: /chat-admin
 Disallow: /course/
 
 # Sitemap location
-Sitemap: https://padhobc.vercel.app/sitemap.xml
+Sitemap: https://studwise.vercel.app/sitemap.xml
