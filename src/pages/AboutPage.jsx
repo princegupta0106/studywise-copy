@@ -29,7 +29,7 @@ export default function AboutPage() {
             color: 'var(--text-bright)',
             letterSpacing: '-0.3px'
           }}>
-            Padho BC
+            StudWise
           </h1>
         </div>
         <Link 
